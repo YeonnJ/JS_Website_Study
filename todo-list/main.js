@@ -8,7 +8,7 @@
 //끝남탭은 끝난아이템만, 진행중탭은 진행중 아이템만
 //전체탭을 누르면 다시 전체아이템으로 돌아옴
 
-let taskInput = document.getElementById("taskinput");
+let taskInput = document.getElementById("task-input");
 let addButton = document.getElementById("add-button");
 let tabs = document.querySelectorAll(".task-tabs div");
 let underLine = document.getElementById("under-line");
