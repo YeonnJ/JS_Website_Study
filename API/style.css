@@ -1,0 +1,17 @@
+.head-line{
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+}
+
+.head-line svg {
+  width: 430px;
+}
+
+.menus{
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid cornflowerblue;
+  border-bottom: 4px double rgb(80, 96, 128);
+}
